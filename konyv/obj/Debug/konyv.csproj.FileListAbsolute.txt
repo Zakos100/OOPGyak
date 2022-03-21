@@ -1,0 +1,5 @@
+c:\users\temp\documents\visual studio 2015\Projects\konyv\konyv\bin\Debug\konyv.exe.config
+c:\users\temp\documents\visual studio 2015\Projects\konyv\konyv\bin\Debug\konyv.exe
+c:\users\temp\documents\visual studio 2015\Projects\konyv\konyv\bin\Debug\konyv.pdb
+c:\users\temp\documents\visual studio 2015\Projects\konyv\konyv\obj\Debug\konyv.exe
+c:\users\temp\documents\visual studio 2015\Projects\konyv\konyv\obj\Debug\konyv.pdb
