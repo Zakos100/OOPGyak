@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9iC2G1kg8sE5qCOGJwGaDF5EU/Fo9lSfXrehkybAvuOkaBcwC0wfyKNQAUbb+5J3Xh1E2pexNQGFfaZPWM7kgg==",
+  "success": true,
+  "projectFilePath": "D:\\egyetem\\4.félév\\OOP\\5.házi\\2_Employee_private\\2_Employee_private.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b3lga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\b3lga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\b3lga\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\b3lga\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
