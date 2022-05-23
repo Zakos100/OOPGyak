@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "itcAhp23nwOofvRUJOx7+q45Mvhp6v6vPRT3ABphoEb5+9HY/ySBe7lxBU0csPPzTRsuWKPc68aaP2NcitgGRQ==",
+  "success": true,
+  "projectFilePath": "D:\\egyetem\\Domigeci\\9.heti házi\\Book\\Book.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\b3lga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\b3lga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\b3lga\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\b3lga\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
